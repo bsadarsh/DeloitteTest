@@ -1,0 +1,13 @@
+c:\users\abari\source\repos\DeloitteDigitalAwaysDay\DeloitteDigitalAwaysDay\bin\Debug\DeloitteDigitalAwaysDay.exe.config
+c:\users\abari\source\repos\DeloitteDigitalAwaysDay\DeloitteDigitalAwaysDay\bin\Debug\DeloitteDigitalAwaysDay.exe
+c:\users\abari\source\repos\DeloitteDigitalAwaysDay\DeloitteDigitalAwaysDay\bin\Debug\DeloitteDigitalAwaysDay.pdb
+c:\users\abari\source\repos\DeloitteDigitalAwaysDay\DeloitteDigitalAwaysDay\obj\Debug\DeloitteDigitalAwaysDay.csprojResolveAssemblyReference.cache
+c:\users\abari\source\repos\DeloitteDigitalAwaysDay\DeloitteDigitalAwaysDay\obj\Debug\DeloitteDigitalAwaysDay.csproj.CoreCompileInputs.cache
+c:\users\abari\source\repos\DeloitteDigitalAwaysDay\DeloitteDigitalAwaysDay\obj\Debug\DeloitteDigitalAwaysDay.exe
+c:\users\abari\source\repos\DeloitteDigitalAwaysDay\DeloitteDigitalAwaysDay\obj\Debug\DeloitteDigitalAwaysDay.pdb
+D:\C# Example\DeloitteDigitalAwaysDay\DeloitteDigitalAwaysDay\bin\Debug\DeloitteDigitalAwaysDay.exe.config
+D:\C# Example\DeloitteDigitalAwaysDay\DeloitteDigitalAwaysDay\obj\Debug\DeloitteDigitalAwaysDay.exe
+D:\C# Example\DeloitteDigitalAwaysDay\DeloitteDigitalAwaysDay\obj\Debug\DeloitteDigitalAwaysDay.pdb
+D:\C# Example\DeloitteDigitalAwaysDay\DeloitteDigitalAwaysDay\bin\Debug\DeloitteDigitalAwaysDay.exe
+D:\C# Example\DeloitteDigitalAwaysDay\DeloitteDigitalAwaysDay\bin\Debug\DeloitteDigitalAwaysDay.pdb
+D:\C# Example\DeloitteDigitalAwaysDay\DeloitteDigitalAwaysDay\obj\Debug\DeloitteDigitalAwaysDay.csprojResolveAssemblyReference.cache
